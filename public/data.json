@@ -1,0 +1,118 @@
+[
+    {
+        "id" : "A-4",
+        "purpose" :"Tahmina rahman (casting)",
+        "cost":"800,000",
+        "company":"BDL"
+    },
+    {
+        "id": "z-1",
+        "purpose":  "interior design",
+        "cost": 35000,
+        "company":"SGL"
+    },
+    {
+        "id": "z-2",
+        "purpose": "tv",
+        "cost":23000,
+        "company": "BDL"
+    },
+    {
+        "id": "z-3",
+        "purpose": "casting (flax)",
+        "cost": 3000,
+        "company": "BDl"
+    },
+    {
+        "id": "z-4",
+        "purpose": "android phone(vivo)",
+        "cost": 10800,
+        "company": "SGL"
+    },
+    {
+        "id": "z-5",
+        "purpose":"ip-phone",
+        "cost": 3500,
+        "company": "BDL"
+    },
+    {
+        "id": "z-6",
+        "purpose": "Dealing licance",
+        "cost": 5800,
+        "company": "BDL"
+    },
+    {
+        "id": "z-7",
+        "purpose": "casting equpment",
+        "cost": 8768,
+        "company": "BDL"
+    },
+    {
+        "id": "z-8",
+        "purpose": "saiful meal charge",
+        "cost": 9343,
+        "company": "BDL"
+    },
+    {
+        "id": "z-9",
+        "purpose": "saiful and friends - border crossing",
+        "cost": 3300,
+        "company": "BDL"
+    },
+    {
+        "id": "z-10",
+        "purpose": "staff lunch and ifter",
+        "cost": 6720,
+        "company": "BDL"
+    },
+    {
+        "id": "A-1",
+        "purpose": "AC(2ton(4pcs) + 1.5(1pcs) )",
+        "cost": 218400,
+        "company": "SGL"
+    },
+    {
+        "id": "A-2",
+        "purpose": "Curtains",
+        "cost": 43000,
+        "company": "SGL"
+    },
+    {
+        "id": "A-3",
+        "purpose": "AC(casting)",
+        "cost": 43000,
+        "company": "SGL"
+    },
+   
+    {
+        "id": "not given",
+        "purpose": "grameenPhone sim (20pcs)",
+        "cost": 2000,
+        "company": "SGL"
+    },
+    {
+        "id": "not given",
+        "purpose": "WE - stall free",
+        "cost": 100000,
+        "company": "SGL"
+    },
+    {
+        "id": "not given",
+        "purpose": "carpet (partially paid)",
+        "cost": 5000,
+        "company": "SGL"
+    },
+    {
+        "id": "not given",
+        "purpose": "Electrician",
+        "cost": "later",
+        "company": "SGL"
+    },
+    {
+        "id": "not given",
+        "purpose": "travel",
+        "cost": "later",
+        "company": "SGL"
+    }
+
+]

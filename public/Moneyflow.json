@@ -1,0 +1,67 @@
+[
+    {
+        "checkNO": 6875042,
+        "withdrowAmmount":  200000,
+        "receiver":"Dip mollik",
+        "bankName":"Standard Bank",
+        "company":"BDL",
+        "date" : "05.04.22"
+    },
+    {
+        "checkNO":6875041,
+        "withdrowAmmount": 125000,
+        "receiver": "Bajus expo-third eye",
+        "bankName": "Standard Bank",
+        "company": "BDL",
+        "date" : "04.04.22"
+    },
+    {
+        "checkNO":6875040,
+        "withdrowAmmount": 150000,
+        "receiver": "Madhob-sourav",
+        "bankName": "Standard Bank",
+        "company": "BDL",
+        "date" : "20.03.22"
+    },
+    {
+        "checkNO":6875039,
+        "withdrowAmmount":300000,
+        "receiver": "Tahmina rahman (casting)",
+        "bankName": "Standard Bank",
+        "company": "BDL",
+        "date" : "02.01.22"
+    },
+    {
+        "checkNO":6875038,
+        "withdrowAmmount": 500000,
+        "receiver": "Tahmina rahman (casting)",
+        "bankName": "Standard Bank",
+        "company": "BDL",
+        "date" : "02.01.22"
+    },
+    {
+        "checkNO":"CAC 3295691",
+        "withdrowAmmount": 200000,
+        "receiver": "shourav",
+        "bankName": "SIBL",
+        "company": "BDL",
+        "date" : "02.01.22"
+    },
+    {
+        "checkNO":"CAC 3295692",
+        "withdrowAmmount": 200000,
+        "receiver": "shourav",
+        "bankName": "SIBL",
+        "company": "BDL",
+        "date" : "02.01.22"
+    },
+    {
+        "checkNO":"BKASH + CASH",
+        "withdrowAmmount": 14570,
+        "receiver": "shourav",
+        "bankName": "null",
+        "company": "BDL",
+        "date" : "30.03.22"
+    }
+    
+]
