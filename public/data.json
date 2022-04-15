@@ -1,118 +1,120 @@
 [
     {
-        "id" : "A-4",
-        "purpose" :"Tahmina rahman (casting)",
-        "cost":"800,000",
-        "company":"BDL"
+        "SerialNo" : "1",
+        "purpose" :"Service Charge(1201)",
+        "cost":"12,300",
+        "Remarks":"Late Date: 10.04.22"
     },
     {
-        "id": "z-1",
-        "purpose":  "interior design",
-        "cost": 35000,
-        "company":"SGL"
+        "SerialNo" : "2",
+        "purpose" :"Service charge (ground)",
+        "cost":"8200",
+        "Remarks":"null"
     },
     {
-        "id": "z-2",
-        "purpose": "tv",
-        "cost":23000,
-        "company": "BDL"
+        "SerialNo" : "3",
+        "purpose" :"Finger access",
+        "cost":"17,526",
+        "Remarks":"Already done"
     },
     {
-        "id": "z-3",
-        "purpose": "casting (flax)",
+        "SerialNo": "4",
+        "purpose":  "CCTV",
+        "cost": "35,000",
+        "Remarks":"Approx"
+    },
+    {
+        "SerialNo": "5",
+        "purpose": "First aid box",
+        "cost":600,
+        "Remarks": "null"
+    },
+    {
+        "SerialNo": "6",
+        "purpose": "Polishing Machine(casting)",
+        "cost": "22,000",
+        "Remarks": "Approved but not purchased"
+    },
+    {
+        "SerialNo": "7",
+        "purpose": "weight scale (casting)",
+        "cost": 11000,
+        "Remarks": "Approx(2 types of scale)"
+    },
+    {
+        "SerialNo": "8",
+        "purpose":"casting tray + miscellanious",
+        "cost": 1500,
+        "Remarks": "null"
+    },
+    {
+        "SerialNo": "9",
+        "purpose": "Internet router",
         "cost": 3000,
-        "company": "BDl"
+        "Remarks": "null"
     },
     {
-        "id": "z-4",
-        "purpose": "android phone(vivo)",
-        "cost": 10800,
-        "company": "SGL"
-    },
-    {
-        "id": "z-5",
-        "purpose":"ip-phone",
-        "cost": 3500,
-        "company": "BDL"
-    },
-    {
-        "id": "z-6",
-        "purpose": "Dealing licance",
-        "cost": 5800,
-        "company": "BDL"
-    },
-    {
-        "id": "z-7",
-        "purpose": "casting equpment",
-        "cost": 8768,
-        "company": "BDL"
-    },
-    {
-        "id": "z-8",
-        "purpose": "saiful meal charge",
-        "cost": 9343,
-        "company": "BDL"
-    },
-    {
-        "id": "z-9",
-        "purpose": "saiful and friends - border crossing",
-        "cost": 3300,
-        "company": "BDL"
-    },
-    {
-        "id": "z-10",
-        "purpose": "staff lunch and ifter",
-        "cost": 6720,
-        "company": "BDL"
-    },
-    {
-        "id": "A-1",
-        "purpose": "AC(2ton(4pcs) + 1.5(1pcs) )",
-        "cost": 218400,
-        "company": "SGL"
-    },
-    {
-        "id": "A-2",
-        "purpose": "Curtains",
-        "cost": 43000,
-        "company": "SGL"
-    },
-    {
-        "id": "A-3",
-        "purpose": "AC(casting)",
-        "cost": 43000,
-        "company": "SGL"
+        "SerialNo": "10",
+        "purpose": "Mokhles sir(salary)",
+        "cost": 22000,
+        "Remarks": ""
     },
    
     {
-        "id": "not given",
-        "purpose": "grameenPhone sim (20pcs)",
-        "cost": 2000,
-        "company": "SGL"
+        "SerialNo": "11",
+        "purpose": "ground floor rent (feb-march)",
+        "cost": 20000,
+        "Remarks": ""
     },
     {
-        "id": "not given",
-        "purpose": "WE - stall free",
-        "cost": 100000,
-        "company": "SGL"
+        "SerialNo": "12",
+        "purpose": "prince(furniture purpose)",
+        "cost": 20000,
+        "Remarks": ""
     },
     {
-        "id": "not given",
-        "purpose": "carpet (partially paid)",
-        "cost": 5000,
-        "company": "SGL"
+        "SerialNo": "13",
+        "purpose": "Tnt line",
+        "cost":4000,
+        "Remarks": "Approved by Lincon Sir"
     },
     {
-        "id": "not given",
-        "purpose": "Electrician",
-        "cost": "later",
-        "company": "SGL"
+        "SerialNo": "14",
+        "purpose": "Tally",
+        "cost": 20000,
+        "Remarks": "Dif cheque"
     },
     {
-        "id": "not given",
-        "purpose": "travel",
-        "cost": "later",
-        "company": "SGL"
+        "SerialNo": "15",
+        "purpose": "Salary (BDT)",
+        "cost": 60000,
+        "Remarks": "Samir Belel"
+    },
+    {
+        "SerialNo": "16",
+        "purpose": "Salary(35000 rs)",
+        "cost": 42200,
+        "Remarks": "Saiful(approx)"
+    },
+   
+    {
+        "SerialNo": "17",
+        "purpose": "salary(25000 rs)",
+        "cost": "null",
+        "Remarks": "Hold-MD sir"
+    },
+    {
+        "SerialNo": "18",
+        "purpose": "salary [half-month(Razzak)]",
+        "cost": "null",
+        "Remarks": "Hold-MD sir"
+    },
+    {
+        "SerialNo": "19",
+        "purpose": "salary [half-month(ashraful)]",
+        "cost": "null",
+        "Remarks": "Hold-MD-sir"
     }
+    
 
 ]

@@ -2,12 +2,12 @@ import React from 'react';
 
 const TableTail = () => {
     return (
-        <tr className='bg-purple-300'>
+        <tr className='bg-gray-300'>
                         
-                        <th className=''>totol-</th>
+                        <th className=''>total-</th>
                         <th></th>
                         <th></th>
-                        <th>00000</th>
+                        <th>$ 2,99,570</th>
                       </tr>
                     
     );

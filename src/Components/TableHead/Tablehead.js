@@ -16,7 +16,7 @@ const Tablehead = () => {
                 
                 <table className='shadow'>
                       
-                        <Tabletitle></Tabletitle>
+                       
 
                        {
                            data.map(x=> <Tablebody obj={x} key={x.id}></Tablebody>)

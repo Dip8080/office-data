@@ -3,16 +3,15 @@ import React from 'react';
 const MoneyflowTail = () => {
     return (
           
-        <tr className='bg-purple-300'>
+        <tr className='bg-gray-300'>
                     
                     <th className=''>Total ammount</th>
                     <th></th>
-                    <th></th>
-                    <th></th>
-                    <th></th>
+                   
                     
-                    <th>=16,89,570</th>
-                    
+                    <th>$ 113,800.00</th>
+                    <th></th>
+                    <th></th>
 
                   </tr>
     );

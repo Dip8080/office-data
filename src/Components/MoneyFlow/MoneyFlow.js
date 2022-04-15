@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import Tabletitle from '../Tabletitle/Tabletitle';
 import Header from './Header';
 import MoneyFlowBody from './MoneyFlowBody';
 import MoneyflowHead from './MoneyflowHead';
@@ -7,19 +8,19 @@ import MoneyflowTail from './MoneyflowTail';
 const MoneyFlow = () => {
     const [data,setData] = useState([]);
     useEffect(()=>{
-        fetch('Moneyflow.json')
+        fetch('AllData.json')
         .then(res=>res.json())
-        .then(data=>setData(data))
+        .then(data=>setData(data.Requisition_09_03_22))
     },[])
-    
+
     return (
         <div className='my-4 p-3'>
             <Header></Header>
              <table className='shadow'>
                       
-                     <MoneyflowHead></MoneyflowHead>
+             <Tabletitle></Tabletitle>
                      {
-                         data.map(x=><MoneyFlowBody  key={x.checkNO} obj={x}></MoneyFlowBody>)
+                         data.slice(23,29).map(x=><MoneyFlowBody obj={x}></MoneyFlowBody>)
                      }
 
                      <MoneyflowTail></MoneyflowTail>

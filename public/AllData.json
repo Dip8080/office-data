@@ -1,0 +1,1319 @@
+{
+    "Requisition_09_03_22":[
+     {
+      "Bengal_Diamond_Limited": "Requisition",
+      "Column2": null,
+      "Column3": null,
+      "Column4": null,
+      "Column5": null
+     },
+     {
+      "Bengal_Diamond_Limited": "SL No",
+      "Column2": "Purpose",
+      "Column3": "Amount",
+      "Column4": "Remarks",
+      "Column5": null
+     },
+     {
+      "Bengal_Diamond_Limited": 1,
+      "Column2": "Service Charge (1201)",
+      "Column3": 12300,
+      "Column4": "Late Date: 10.04.22",
+      "Column5": null
+     },
+     {
+      "Bengal_Diamond_Limited": 2,
+      "Column2": "Service Charge (Ground)",
+      "Column3": 8200,
+      "Column4": null,
+      "Column5": null
+     },
+     {
+      "Bengal_Diamond_Limited": 3,
+      "Column2": "Finger Access",
+      "Column3": 17526,
+      "Column4": "Already Done",
+      "Column5": null
+     },
+     {
+      "Bengal_Diamond_Limited": 4,
+      "Column2": "CCTV",
+      "Column3": 35000,
+      "Column4": "Approx",
+      "Column5": null
+     },
+     {
+      "Bengal_Diamond_Limited": 5,
+      "Column2": "First AID Box",
+      "Column3": 600,
+      "Column4": null,
+      "Column5": null
+     },
+     {
+      "Bengal_Diamond_Limited": 6,
+      "Column2": "Casting Polishing machine",
+      "Column3": 22000,
+      "Column4": "Approved But Not Purchased",
+      "Column5": null
+     },
+     {
+      "Bengal_Diamond_Limited": 7,
+      "Column2": "Weight Scale (Casting)",
+      "Column3": 11000,
+      "Column4": "Approx (2 types Weight Scale)",
+      "Column5": null
+     },
+     {
+      "Bengal_Diamond_Limited": 8,
+      "Column2": "Casting Tray+ Miscellaneous",
+      "Column3": 1500,
+      "Column4": null,
+      "Column5": null
+     },
+     {
+      "Bengal_Diamond_Limited": 9,
+      "Column2": "Internet Router",
+      "Column3": 3000,
+      "Column4": null,
+      "Column5": null
+     },
+     {
+      "Bengal_Diamond_Limited": 10,
+      "Column2": "Mokhles Sir-Salary",
+      "Column3": 22000,
+      "Column4": null,
+      "Column5": null
+     },
+     {
+      "Bengal_Diamond_Limited": 11,
+      "Column2": "Ground Floor Rent Feb-Mar",
+      "Column3": 20000,
+      "Column4": null,
+      "Column5": null
+     },
+     {
+      "Bengal_Diamond_Limited": 12,
+      "Column2": "Furniture Purpose Prince",
+      "Column3": 20000,
+      "Column4": null,
+      "Column5": null
+     },
+     {
+      "Bengal_Diamond_Limited": 13,
+      "Column2": "Tnt Line",
+      "Column3": 4000,
+      "Column4": "Approved by Lincon Sir",
+      "Column5": null
+     },
+     {
+      "Bengal_Diamond_Limited": 14,
+      "Column2": "Tally",
+      "Column3": 20000,
+      "Column4": "Diff Cheque",
+      "Column5": null
+     },
+     {
+      "Bengal_Diamond_Limited": 15,
+      "Column2": "Salary Bdt",
+      "Column3": 60000,
+      "Column4": "Samir Belel",
+      "Column5": "Diff Cheque"
+     },
+     {
+      "Bengal_Diamond_Limited": 16,
+      "Column2": "Salary 35000 RS",
+      "Column3": 42200,
+      "Column4": "Saiful-Approx",
+      "Column5": null
+     },
+     {
+      "Bengal_Diamond_Limited": 17,
+      "Column2": "Salary 25000 RS",
+      "Column3": null,
+      "Column4": "Hold-MD Sir",
+      "Column5": null
+     },
+     {
+      "Bengal_Diamond_Limited": 18,
+      "Column2": "Salary (Half Month) Razzak",
+      "Column3": null,
+      "Column4": "Hold-MD Sir",
+      "Column5": null
+     },
+     {
+      "Bengal_Diamond_Limited": 19,
+      "Column2": "Salary (Half Month)Ashraful",
+      "Column3": null,
+      "Column4": "Hold-MD Sir",
+      "Column5": null
+     },
+     {
+      "Bengal_Diamond_Limited": null,
+      "Column2": null,
+      "Column3": 299326,
+      "Column4": null,
+      "Column5": null
+     },
+     {
+      "Bengal_Diamond_Limited": "SGL Labs",
+      "Column2": null,
+      "Column3": null,
+      "Column4": null,
+      "Column5": null
+     },
+     {
+      "Bengal_Diamond_Limited": 1,
+      "Column2": "Service Charge (602)",
+      "Column3": 12300,
+      "Column4": null,
+      "Column5": null
+     },
+     {
+      "Bengal_Diamond_Limited": 2,
+      "Column2": "CCTV",
+      "Column3": 10000,
+      "Column4": "Approx",
+      "Column5": null
+     },
+     {
+      "Bengal_Diamond_Limited": 3,
+      "Column2": "Passport",
+      "Column3": 22500,
+      "Column4": "2 Person",
+      "Column5": null
+     },
+     {
+      "Bengal_Diamond_Limited": 4,
+      "Column2": "Internet Router",
+      "Column3": 3000,
+      "Column4": "Approx",
+      "Column5": null
+     },
+     {
+      "Bengal_Diamond_Limited": 5,
+      "Column2": "Printing Items Branding",
+      "Column3": 6000,
+      "Column4": "Approx",
+      "Column5": null
+     },
+     {
+      "Bengal_Diamond_Limited": 6,
+      "Column2": "6th Floor Rent-April",
+      "Column3": 60000,
+      "Column4": null,
+      "Column5": null
+     },
+     {
+      "Bengal_Diamond_Limited": null,
+      "Column2": null,
+      "Column3": 113800,
+      "Column4": null,
+      "Column5": null
+     },
+     {
+      "Bengal_Diamond_Limited": "Total",
+      "Column2": 413126,
+      "Column3": null,
+      "Column4": null,
+      "Column5": null
+     }
+    ],
+    "BDL_Cheque_Expense":[
+     {
+      "Source_of_Money": "SL No",
+      "Column2": "Withdrawn From",
+      "Column3": "Bank Name",
+      "Column4": "Cheque No",
+      "Column5": "Cheque Date",
+      "Column6": "Received By",
+      "Column7": "Cheque Amount",
+      "Column8": "Mode"
+     },
+     {
+      "Source_of_Money": 1,
+      "Column2": "BDL",
+      "Column3": "Standard Bank",
+      "Column4": 6875039,
+      "Column5": "02.01.22",
+      "Column6": "Casting (Tahmina Rahman)",
+      "Column7": 500000,
+      "Column8": "A\/P"
+     },
+     {
+      "Source_of_Money": 2,
+      "Column2": "BDL",
+      "Column3": "Standard Bank",
+      "Column4": 6875038,
+      "Column5": "02.01.22",
+      "Column6": "Casting (Tahmina Rahman)",
+      "Column7": 300000,
+      "Column8": "A\/P"
+     },
+     {
+      "Source_of_Money": 3,
+      "Column2": "BDL",
+      "Column3": "Standard Bank",
+      "Column4": 6875042,
+      "Column5": "05.04.22",
+      "Column6": "Dip Mollik",
+      "Column7": 200000,
+      "Column8": "Cash"
+     },
+     {
+      "Source_of_Money": 4,
+      "Column2": "BDL",
+      "Column3": "Standard Bank",
+      "Column4": 6875041,
+      "Column5": "04.04.22",
+      "Column6": "Third Eye-Bajus Expo",
+      "Column7": 125000,
+      "Column8": "Cash"
+     },
+     {
+      "Source_of_Money": 5,
+      "Column2": "BDL",
+      "Column3": "Standard Bank",
+      "Column4": 6875040,
+      "Column5": "20.03.22",
+      "Column6": "Madhob- Sowrov",
+      "Column7": 150000,
+      "Column8": "Cash"
+     },
+     {
+      "Source_of_Money": 6,
+      "Column2": "BDL",
+      "Column3": "SIBL",
+      "Column4": "CAC 3295691",
+      "Column5": "28.03.22",
+      "Column6": "Sowrov",
+      "Column7": 200000,
+      "Column8": "Cash"
+     },
+     {
+      "Source_of_Money": 7,
+      "Column2": "BDL",
+      "Column3": "SIBL",
+      "Column4": "CAC 3295692",
+      "Column5": null,
+      "Column6": "Sowrov",
+      "Column7": 200000,
+      "Column8": "Cash"
+     },
+     {
+      "Source_of_Money": 8,
+      "Column2": "BDL",
+      "Column3": "Nosepin \"WE\" Two Pcs",
+      "Column4": null,
+      "Column5": null,
+      "Column6": "Sowrov",
+      "Column7": 14570,
+      "Column8": "Cash"
+     },
+     {
+      "Source_of_Money": null,
+      "Column2": null,
+      "Column3": null,
+      "Column4": null,
+      "Column5": null,
+      "Column6": "Total Withdrawn",
+      "Column7": "16,89,570.00",
+      "Column8": null
+     },
+     {
+      "Source_of_Money": null,
+      "Column2": null,
+      "Column3": null,
+      "Column4": null,
+      "Column5": null,
+      "Column6": null,
+      "Column7": null,
+      "Column8": null
+     },
+     {
+      "Source_of_Money": null,
+      "Column2": null,
+      "Column3": null,
+      "Column4": null,
+      "Column5": "Cash In Hand",
+      "Column6": 614570,
+      "Column7": null,
+      "Column8": null
+     },
+     {
+      "Source_of_Money": "Direct Cheque Disbursement",
+      "Column2": null,
+      "Column3": null,
+      "Column4": null,
+      "Column5": null,
+      "Column6": null,
+      "Column7": null,
+      "Column8": null
+     },
+     {
+      "Source_of_Money": "SL No",
+      "Column2": "Purpose",
+      "Column3": null,
+      "Column4": "Amount",
+      "Column5": "Remarks",
+      "Column6": null,
+      "Column7": null,
+      "Column8": null
+     },
+     {
+      "Source_of_Money": 1,
+      "Column2": "Casting (Tahmina Rahman)",
+      "Column3": null,
+      "Column4": 500000,
+      "Column5": null,
+      "Column6": null,
+      "Column7": null,
+      "Column8": null
+     },
+     {
+      "Source_of_Money": 2,
+      "Column2": "Casting (Tahmina Rahman)",
+      "Column3": null,
+      "Column4": 300000,
+      "Column5": null,
+      "Column6": null,
+      "Column7": null,
+      "Column8": null
+     },
+     {
+      "Source_of_Money": 3,
+      "Column2": "Third Eye-Bajus Expo",
+      "Column3": null,
+      "Column4": 125000,
+      "Column5": null,
+      "Column6": null,
+      "Column7": null,
+      "Column8": null
+     },
+     {
+      "Source_of_Money": 4,
+      "Column2": "Madhob- Sowrov",
+      "Column3": null,
+      "Column4": 150000,
+      "Column5": null,
+      "Column6": null,
+      "Column7": null,
+      "Column8": null
+     },
+     {
+      "Source_of_Money": null,
+      "Column2": null,
+      "Column3": "total",
+      "Column4": "10,75,000.00",
+      "Column5": null,
+      "Column6": null,
+      "Column7": null,
+      "Column8": null
+     }
+    ],
+    "MadhobSowrov":[
+     {
+      "Expense_From_Tatibazar": "SL No",
+      "Column2": "Purpose",
+      "Column3": "cost",
+      "Column4": "Remarks",
+      "Column5": null,
+      "Column6": null,
+      "Column7": null
+     },
+     {
+      "Expense_From_Tatibazar": 1,
+      "Column2": "Samir Belel Salary",
+      "Column3": 60000,
+      "Column4": null,
+      "Column5": null,
+      "Column6": null,
+      "Column7": null
+     },
+     {
+      "Expense_From_Tatibazar": 2,
+      "Column2": "Saiful and Habib Salary",
+      "Column3": 65476,
+      "Column4": "Saiful 35000Rs Habib 25000 Rs",
+      "Column5": null,
+      "Column6": null,
+      "Column7": null
+     },
+     {
+      "Expense_From_Tatibazar": 3,
+      "Column2": "Saiful (Breakdown Given)",
+      "Column3": 27224,
+      "Column4": "From India",
+      "Column5": null,
+      "Column6": null,
+      "Column7": 150000
+     },
+     {
+      "Expense_From_Tatibazar": null,
+      "Column2": "Total",
+      "Column3": 152700,
+      "Column4": null,
+      "Column5": null,
+      "Column6": null,
+      "Column7": null
+     },
+     {
+      "Expense_From_Tatibazar": null,
+      "Column2": "Returnable",
+      "Column3": 2700,
+      "Column4": "Tatibazar",
+      "Column5": null,
+      "Column6": null,
+      "Column7": null
+     },
+     {
+      "Expense_From_Tatibazar": "Breakdown 27,224Bdt",
+      "Column2": null,
+      "Column3": null,
+      "Column4": null,
+      "Column5": null,
+      "Column6": null,
+      "Column7": null
+     },
+     {
+      "Expense_From_Tatibazar": 1,
+      "Column2": "3 Person Visa",
+      "Column3": 12000,
+      "Column4": "Rupee",
+      "Column5": null,
+      "Column6": null,
+      "Column7": null
+     },
+     {
+      "Expense_From_Tatibazar": 2,
+      "Column2": "Transportation",
+      "Column3": 600,
+      "Column4": "Rupee",
+      "Column5": null,
+      "Column6": null,
+      "Column7": null
+     },
+     {
+      "Expense_From_Tatibazar": 3,
+      "Column2": "Tools",
+      "Column3": 1070,
+      "Column4": "Rupee",
+      "Column5": null,
+      "Column6": null,
+      "Column7": null
+     },
+     {
+      "Expense_From_Tatibazar": 4,
+      "Column2": "Design (450 Each 21 Design)",
+      "Column3": 9450,
+      "Column4": "Rupee",
+      "Column5": null,
+      "Column6": null,
+      "Column7": null
+     },
+     {
+      "Expense_From_Tatibazar": "5",
+      "Column2":"Total",
+      "Column3": 23120,
+      "Column4": "Rupee",
+      "Column5": null,
+      "Column6": null,
+      "Column7": null
+     },
+     {
+      "Expense_From_Tatibazar": null,
+      "Column2": "",
+      "Column3": null,
+      "Column4": null,
+      "Column5": null,
+      "Column6": "23,000Rs",
+      "Column7": "= 27,224Bdt"
+     }
+    ],
+    "dt":[
+     {
+      "Bengal_Diamond_Limited": "SL No",
+      "Column2": "Purpose",
+      "Column3": "Amount",
+      "Column4": "Remarks",
+      "SGL_Lab_Bangladesh_Limited": "SL No",
+      "Column6": "Purpose",
+      "Column7": "Amount",
+      "Column8": "Remarks",
+      "Column9": null,
+      "Column10": null,
+      "Column11": null,
+      "Column12": null
+     },
+     {
+      "Bengal_Diamond_Limited": 1,
+      "Column2": "Dealing Licence",
+      "Column3": 5800,
+      "Column4": "Govt Fee",
+      "SGL_Lab_Bangladesh_Limited": 1,
+      "Column6": "A\/C+Installation",
+      "Column7": 220500,
+      "Column8": "Installation+Transportation",
+      "Column9": null,
+      "Column10": null,
+      "Column11": null,
+      "Column12": null
+     },
+     {
+      "Bengal_Diamond_Limited": 2,
+      "Column2": "Dealing Misc",
+      "Column3": 1000,
+      "Column4": null,
+      "SGL_Lab_Bangladesh_Limited": 2,
+      "Column6": "TV",
+      "Column7": 23000,
+      "Column8": null,
+      "Column9": null,
+      "Column10": null,
+      "Column11": "Received",
+      "Column12": 614570
+     },
+     {
+      "Bengal_Diamond_Limited": 3,
+      "Column2": "IP Phone",
+      "Column3": 3500,
+      "Column4": "Tanvir",
+      "SGL_Lab_Bangladesh_Limited": 3,
+      "Column6": "Dip Transportation",
+      "Column7": 100,
+      "Column8": "Bike-Mohakhali to Office",
+      "Column9": null,
+      "Column10": null,
+      "Column11": null,
+      "Column12": null
+     },
+     {
+      "Bengal_Diamond_Limited": 4,
+      "Column2": "Transportation and Other",
+      "Column3": 400,
+      "Column4": "Tanvir",
+      "SGL_Lab_Bangladesh_Limited": 4,
+      "Column6": "Cleaning",
+      "Column7": 500,
+      "Column8": "Before Carpet Setting",
+      "Column9": null,
+      "Column10": null,
+      "Column11": "Expense",
+      "Column12": 613104
+     },
+     {
+      "Bengal_Diamond_Limited": 5,
+      "Column2": "Shakil (Casting Purpose)",
+      "Column3": 10000,
+      "Column4": "Bill-Sowrov",
+      "SGL_Lab_Bangladesh_Limited": 5,
+      "Column6": "Door Sizing",
+      "Column7": 1500,
+      "Column8": "Shakil",
+      "Column9": null,
+      "Column10": null,
+      "Column11": "Should Hand",
+      "Column12": 1466
+     },
+     {
+      "Bengal_Diamond_Limited": 6,
+      "Column2": "WE Fair day 01 Lunch",
+      "Column3": 900,
+      "Column4": null,
+      "SGL_Lab_Bangladesh_Limited": 6,
+      "Column6": "Roller Blinder",
+      "Column7": 43000,
+      "Column8": null,
+      "Column9": null,
+      "Column10": null,
+      "Column11": null,
+      "Column12": null
+     },
+     {
+      "Bengal_Diamond_Limited": 7,
+      "Column2": "Printing Purpose",
+      "Column3": 23000,
+      "Column4": "Advance",
+      "SGL_Lab_Bangladesh_Limited": 7,
+      "Column6": "Carpet",
+      "Column7": 5000,
+      "Column8": "Returnable 27,200 Apan",
+      "Column9": null,
+      "Column10": null,
+      "Column11": null,
+      "Column12": null
+     },
+     {
+      "Bengal_Diamond_Limited": 8,
+      "Column2": "WE Fair Pickup+Other",
+      "Column3": 3000,
+      "Column4": "Bill-Dip",
+      "SGL_Lab_Bangladesh_Limited": 8,
+      "Column6": "Prince",
+      "Column7": 35000,
+      "Column8": "Interior Advance",
+      "Column9": null,
+      "Column10": null,
+      "Column11": null,
+      "Column12": null
+     },
+     {
+      "Bengal_Diamond_Limited": 9,
+      "Column2": "Tanvir+Mokhles Sir",
+      "Column3": 500,
+      "Column4": "Vat Office visit",
+      "SGL_Lab_Bangladesh_Limited": 9,
+      "Column6": "Carpet+AC",
+      "Column7": 150,
+      "Column8": "Transportation-Baitul",
+      "Column9": null,
+      "Column10": null,
+      "Column11": null,
+      "Column12": null
+     },
+     {
+      "Bengal_Diamond_Limited": 10,
+      "Column2": "Mobile",
+      "Column3": 10600,
+      "Column4": null,
+      "SGL_Lab_Bangladesh_Limited": null,
+      "Column6": null,
+      "Column7": null,
+      "Column8": null,
+      "Column9": null,
+      "Column10": null,
+      "Column11": null,
+      "Column12": null
+     },
+     {
+      "Bengal_Diamond_Limited": 11,
+      "Column2": "Shamim",
+      "Column3": 1840,
+      "Column4": "Bill-Dip",
+      "SGL_Lab_Bangladesh_Limited": null,
+      "Column6": null,
+      "Column7": null,
+      "Column8": null,
+      "Column9": null,
+      "Column10": null,
+      "Column11": null,
+      "Column12": null
+     },
+     {
+      "Bengal_Diamond_Limited": 12,
+      "Column2": "Shamim (Casting)-Wax",
+      "Column3": 4040,
+      "Column4": null,
+      "SGL_Lab_Bangladesh_Limited": null,
+      "Column6": null,
+      "Column7": null,
+      "Column8": null,
+      "Column9": null,
+      "Column10": null,
+      "Column11": null,
+      "Column12": null
+     },
+     {
+      "Bengal_Diamond_Limited": 13,
+      "Column2": "WE Fair day 02 Lunch",
+      "Column3": 420,
+      "Column4": null,
+      "SGL_Lab_Bangladesh_Limited": null,
+      "Column6": null,
+      "Column7": null,
+      "Column8": null,
+      "Column9": null,
+      "Column10": null,
+      "Column11": null,
+      "Column12": null
+     },
+     {
+      "Bengal_Diamond_Limited": 14,
+      "Column2": "Cleaner 'WE'+additional",
+      "Column3": 280,
+      "Column4": null,
+      "SGL_Lab_Bangladesh_Limited": null,
+      "Column6": null,
+      "Column7": null,
+      "Column8": null,
+      "Column9": null,
+      "Column10": null,
+      "Column11": null,
+      "Column12": null
+     },
+     {
+      "Bengal_Diamond_Limited": 15,
+      "Column2": "Saiful Food Purpose",
+      "Column3": 1000,
+      "Column4": "Bill-Dip",
+      "SGL_Lab_Bangladesh_Limited": null,
+      "Column6": null,
+      "Column7": null,
+      "Column8": null,
+      "Column9": null,
+      "Column10": null,
+      "Column11": null,
+      "Column12": null
+     },
+     {
+      "Bengal_Diamond_Limited": 16,
+      "Column2": "WE\" Return Van",
+      "Column3": 500,
+      "Column4": null,
+      "SGL_Lab_Bangladesh_Limited": null,
+      "Column6": null,
+      "Column7": null,
+      "Column8": null,
+      "Column9": null,
+      "Column10": null,
+      "Column11": null,
+      "Column12": null
+     },
+     {
+      "Bengal_Diamond_Limited": 17,
+      "Column2": "WE\" Return Uber",
+      "Column3": 200,
+      "Column4": null,
+      "SGL_Lab_Bangladesh_Limited": null,
+      "Column6": null,
+      "Column7": null,
+      "Column8": null,
+      "Column9": null,
+      "Column10": null,
+      "Column11": null,
+      "Column12": null
+     },
+     {
+      "Bengal_Diamond_Limited": 18,
+      "Column2": "Saiful Food Purpose",
+      "Column3": 2000,
+      "Column4": "Bill-Dip",
+      "SGL_Lab_Bangladesh_Limited": null,
+      "Column6": null,
+      "Column7": null,
+      "Column8": null,
+      "Column9": null,
+      "Column10": null,
+      "Column11": null,
+      "Column12": null
+     },
+     {
+      "Bengal_Diamond_Limited": 19,
+      "Column2": "Samir Belel",
+      "Column3": 2000,
+      "Column4": "Not Submitted",
+      "SGL_Lab_Bangladesh_Limited": null,
+      "Column6": null,
+      "Column7": null,
+      "Column8": null,
+      "Column9": null,
+      "Column10": null,
+      "Column11": null,
+      "Column12": null
+     },
+     {
+      "Bengal_Diamond_Limited": 20,
+      "Column2": "WE Miscell",
+      "Column3": 900,
+      "Column4": "Bill-Dip",
+      "SGL_Lab_Bangladesh_Limited": null,
+      "Column6": null,
+      "Column7": null,
+      "Column8": null,
+      "Column9": null,
+      "Column10": null,
+      "Column11": null,
+      "Column12": null
+     },
+     {
+      "Bengal_Diamond_Limited": 21,
+      "Column2": "Lunch Office",
+      "Column3": 650,
+      "Column4": "01.04.22",
+      "SGL_Lab_Bangladesh_Limited": null,
+      "Column6": null,
+      "Column7": null,
+      "Column8": null,
+      "Column9": null,
+      "Column10": null,
+      "Column11": null,
+      "Column12": null
+     },
+     {
+      "Bengal_Diamond_Limited": 22,
+      "Column2": "Casting Electric Items",
+      "Column3": 9084,
+      "Column4": "Bill-Dip",
+      "SGL_Lab_Bangladesh_Limited": null,
+      "Column6": null,
+      "Column7": null,
+      "Column8": null,
+      "Column9": null,
+      "Column10": null,
+      "Column11": null,
+      "Column12": null
+     },
+     {
+      "Bengal_Diamond_Limited": 23,
+      "Column2": "Saiful Food Purpose",
+      "Column3": 600,
+      "Column4": "Bill-Dip",
+      "SGL_Lab_Bangladesh_Limited": null,
+      "Column6": null,
+      "Column7": null,
+      "Column8": null,
+      "Column9": null,
+      "Column10": null,
+      "Column11": null,
+      "Column12": null
+     },
+     {
+      "Bengal_Diamond_Limited": 24,
+      "Column2": "Samim (Airport)",
+      "Column3": 1100,
+      "Column4": "Bill-Dip",
+      "SGL_Lab_Bangladesh_Limited": "Transportation",
+      "Column6": null,
+      "Column7": null,
+      "Column8": null,
+      "Column9": null,
+      "Column10": null,
+      "Column11": null,
+      "Column12": null
+     },
+     {
+      "Bengal_Diamond_Limited": 25,
+      "Column2": "Border Crossing Casting",
+      "Column3": 3300,
+      "Column4": "Details-Dip",
+      "SGL_Lab_Bangladesh_Limited": null,
+      "Column6": null,
+      "Column7": null,
+      "Column8": null,
+      "Column9": null,
+      "Column10": null,
+      "Column11": null,
+      "Column12": null
+     },
+     {
+      "Bengal_Diamond_Limited": 26,
+      "Column2": "Saiful Food Purpose",
+      "Column3": 400,
+      "Column4": "Bill-Dip",
+      "SGL_Lab_Bangladesh_Limited": null,
+      "Column6": null,
+      "Column7": null,
+      "Column8": null,
+      "Column9": null,
+      "Column10": null,
+      "Column11": null,
+      "Column12": null
+     },
+     {
+      "Bengal_Diamond_Limited": 27,
+      "Column2": "Corporate Sim Card",
+      "Column3": 2000,
+      "Column4": "Not Submitted",
+      "SGL_Lab_Bangladesh_Limited": null,
+      "Column6": null,
+      "Column7": null,
+      "Column8": null,
+      "Column9": null,
+      "Column10": null,
+      "Column11": null,
+      "Column12": null
+     },
+     {
+      "Bengal_Diamond_Limited": 28,
+      "Column2": "AD casting",
+      "Column3": 775,
+      "Column4": null,
+      "SGL_Lab_Bangladesh_Limited": null,
+      "Column6": null,
+      "Column7": null,
+      "Column8": null,
+      "Column9": null,
+      "Column10": null,
+      "Column11": null,
+      "Column12": null
+     },
+     {
+      "Bengal_Diamond_Limited": 29,
+      "Column2": "Casting Electrician",
+      "Column3": 1100,
+      "Column4": null,
+      "SGL_Lab_Bangladesh_Limited": null,
+      "Column6": null,
+      "Column7": null,
+      "Column8": null,
+      "Column9": null,
+      "Column10": null,
+      "Column11": null,
+      "Column12": null
+     },
+     {
+      "Bengal_Diamond_Limited": 30,
+      "Column2": "Samir Belel",
+      "Column3": 500,
+      "Column4": "Advance",
+      "SGL_Lab_Bangladesh_Limited": null,
+      "Column6": null,
+      "Column7": null,
+      "Column8": null,
+      "Column9": null,
+      "Column10": null,
+      "Column11": null,
+      "Column12": null
+     },
+     {
+      "Bengal_Diamond_Limited": 31,
+      "Column2": "iftari",
+      "Column3": 280,
+      "Column4": null,
+      "SGL_Lab_Bangladesh_Limited": null,
+      "Column6": null,
+      "Column7": null,
+      "Column8": null,
+      "Column9": null,
+      "Column10": null,
+      "Column11": null,
+      "Column12": null
+     },
+     {
+      "Bengal_Diamond_Limited": 32,
+      "Column2": "iftari",
+      "Column3": 250,
+      "Column4": null,
+      "SGL_Lab_Bangladesh_Limited": null,
+      "Column6": null,
+      "Column7": null,
+      "Column8": null,
+      "Column9": null,
+      "Column10": null,
+      "Column11": null,
+      "Column12": null
+     },
+     {
+      "Bengal_Diamond_Limited": 33,
+      "Column2": "Saiful Food Purpose",
+      "Column3": 120,
+      "Column4": null,
+      "SGL_Lab_Bangladesh_Limited": null,
+      "Column6": null,
+      "Column7": null,
+      "Column8": null,
+      "Column9": null,
+      "Column10": null,
+      "Column11": null,
+      "Column12": null
+     },
+     {
+      "Bengal_Diamond_Limited": 34,
+      "Column2": "Casting AC",
+      "Column3": 51000,
+      "Column4": null,
+      "SGL_Lab_Bangladesh_Limited": null,
+      "Column6": null,
+      "Column7": null,
+      "Column8": null,
+      "Column9": null,
+      "Column10": null,
+      "Column11": null,
+      "Column12": null
+     },
+     {
+      "Bengal_Diamond_Limited": 35,
+      "Column2": "Shabnaz",
+      "Column3": 100000,
+      "Column4": "WE fair",
+      "SGL_Lab_Bangladesh_Limited": null,
+      "Column6": null,
+      "Column7": null,
+      "Column8": null,
+      "Column9": null,
+      "Column10": null,
+      "Column11": null,
+      "Column12": null
+     },
+     {
+      "Bengal_Diamond_Limited": 36,
+      "Column2": "Shakil (Casting Purpose)",
+      "Column3": 25000,
+      "Column4": null,
+      "SGL_Lab_Bangladesh_Limited": null,
+      "Column6": null,
+      "Column7": null,
+      "Column8": null,
+      "Column9": null,
+      "Column10": null,
+      "Column11": null,
+      "Column12": null
+     },
+     {
+      "Bengal_Diamond_Limited": 37,
+      "Column2": "Printing Purpose",
+      "Column3": 15000,
+      "Column4": "Advance",
+      "SGL_Lab_Bangladesh_Limited": null,
+      "Column6": null,
+      "Column7": null,
+      "Column8": null,
+      "Column9": null,
+      "Column10": null,
+      "Column11": null,
+      "Column12": null
+     },
+     {
+      "Bengal_Diamond_Limited": 38,
+      "Column2": "5days Iftari",
+      "Column3": 1115,
+      "Column4": "Bill-Dip",
+      "SGL_Lab_Bangladesh_Limited": null,
+      "Column6": null,
+      "Column7": null,
+      "Column8": null,
+      "Column9": null,
+      "Column10": null,
+      "Column11": null,
+      "Column12": null
+     },
+     {
+      "Bengal_Diamond_Limited": 39,
+      "Column2": "Sale Purpose-Baitul",
+      "Column3": 200,
+      "Column4": "Transportation",
+      "SGL_Lab_Bangladesh_Limited": null,
+      "Column6": null,
+      "Column7": null,
+      "Column8": null,
+      "Column9": null,
+      "Column10": null,
+      "Column11": null,
+      "Column12": null
+     },
+     {
+      "Bengal_Diamond_Limited": null,
+      "Column2": null,
+      "Column3": 284354,
+      "Column4": null,
+      "SGL_Lab_Bangladesh_Limited": null,
+      "Column6": null,
+      "Column7": 328750,
+      "Column8": null,
+      "Column9": null,
+      "Column10": null,
+      "Column11": null,
+      "Column12": null
+     }
+    ],
+    "Returnable":[
+     {
+      "Uttam Sir": "SL No",
+      "Column2": "Purpose",
+      "Column3": "Amount",
+      "Column4": "Remarks",
+      "Column5": null,
+      "Column6": null,
+      "Column7": null
+     },
+     {
+      "Uttam Sir": 1,
+      "Column2": "Samir Belel",
+      "Column3": 80000,
+      "Column4": "RS Samir Belel- VISA Salary",
+      "Column5": null,
+      "Column6": null,
+      "Column7": null
+     },
+     {
+      "Uttam Sir": 2,
+      "Column2": "Samir Belel",
+      "Column3": 30000,
+      "Column4": null,
+      "Column5": null,
+      "Column6": null,
+      "Column7": "RS"
+     },
+     {
+      "Uttam Sir": 3,
+      "Column2": "Samir Belel",
+      "Column3": 8500,
+      "Column4": null,
+      "Column5": null,
+      "Column6": null,
+      "Column7": null
+     },
+     {
+      "Uttam Sir": 4,
+      "Column2": "Office Expense",
+      "Column3": 20000,
+      "Column4": "Bill-Sowrov",
+      "Column5": null,
+      "Column6": null,
+      "Column7": null
+     },
+     {
+      "Uttam Sir": null,
+      "Column2": "118500 RS",
+      "Column3": "20000 BDT",
+      "Column4": null,
+      "Column5": null,
+      "Column6": null,
+      "Column7": null
+     },
+     null,
+     {
+      "Uttam Sir": "Lincon Sir",
+      "Column2": null,
+      "Column3": null,
+      "Column4": null,
+      "Column5": null,
+      "Column6": null,
+      "Column7": null
+     },
+     {
+      "Uttam Sir": "SL No",
+      "Column2": "Purpose",
+      "Column3": "Amount",
+      "Column4": "Remarks",
+      "Column5": null,
+      "Column6": null,
+      "Column7": null
+     },
+     {
+      "Uttam Sir": 1,
+      "Column2": "Third Eye-Bajus",
+      "Column3": 75000,
+      "Column4": "SGL",
+      "Column5": null,
+      "Column6": null,
+      "Column7": null
+     },
+     {
+      "Uttam Sir": 2,
+      "Column2": "Chirag Air Bill",
+      "Column3": 175000,
+      "Column4": "SGL",
+      "Column5": null,
+      "Column6": null,
+      "Column7": null
+     },
+     {
+      "Uttam Sir": null,
+      "Column2": "Office Expense",
+      "Column3": 5000,
+      "Column4": "Saikat-BDL Purpose",
+      "Column5": null,
+      "Column6": null,
+      "Column7": null
+     },
+     {
+      "Uttam Sir": 3,
+      "Column2": "Dia Screen",
+      "Column3": null,
+      "Column4": "Customs+Tax+CNF",
+      "Column5": null,
+      "Column6": null,
+      "Column7": null
+     },
+     {
+      "Uttam Sir": 4,
+      "Column2": "Microscope",
+      "Column3": null,
+      "Column4": "Customs+Tax+CNF",
+      "Column5": null,
+      "Column6": null,
+      "Column7": null
+     },
+     {
+      "Uttam Sir": null,
+      "Column2": "Total",
+      "Column3": 255000,
+      "Column4": null,
+      "Column5": null,
+      "Column6": null,
+      "Column7": null
+     },
+     null,
+     {
+      "Uttam Sir": "Topu Sir",
+      "Column2": null,
+      "Column3": null,
+      "Column4": null,
+      "Column5": null,
+      "Column6": null,
+      "Column7": null
+     },
+     {
+      "Uttam Sir": "SL No",
+      "Column2": "Purpose",
+      "Column3": "Amount",
+      "Column4": "Remarks",
+      "Column5": null,
+      "Column6": null,
+      "Column7": null
+     },
+     {
+      "Uttam Sir": 1,
+      "Column2": "Office Expense",
+      "Column3": 50000,
+      "Column4": null,
+      "Column5": null,
+      "Column6": null,
+      "Column7": null
+     },
+     {
+      "Uttam Sir": 2,
+      "Column2": "Office Expense",
+      "Column3": 50000,
+      "Column4": null,
+      "Column5": null,
+      "Column6": null,
+      "Column7": null
+     },
+     {
+      "Uttam Sir": null,
+      "Column2": null,
+      "Column3": null,
+      "Column4": null,
+      "Column5": null,
+      "Column6": null,
+      "Column7": null
+     },
+     {
+      "Uttam Sir": null,
+      "Column2": null,
+      "Column3": null,
+      "Column4": null,
+      "Column5": null,
+      "Column6": null,
+      "Column7": null
+     },
+     {
+      "Uttam Sir": "Azad Sir",
+      "Column2": null,
+      "Column3": null,
+      "Column4": null,
+      "Column5": null,
+      "Column6": null,
+      "Column7": null
+     },
+     {
+      "Uttam Sir": "SL No",
+      "Column2": "Purpose",
+      "Column3": "Amount",
+      "Column4": "Remarks",
+      "Column5": null,
+      "Column6": null,
+      "Column7": null
+     },
+     {
+      "Uttam Sir": 1,
+      "Column2": "Carpet",
+      "Column3": 27500,
+      "Column4": null,
+      "Column5": null,
+      "Column6": null,
+      "Column7": null
+     }
+    ]
+    }
